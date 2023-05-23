@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# 概要
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+react hook form + mui + zod の技術検証用(新プロジェクトでの導入検討用)
+
+## 起動手順
+
+```bash
+npm ci
+```
+
+```bash
+npm run start
+```
 
 ## Available Scripts
 
